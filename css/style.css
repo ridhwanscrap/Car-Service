@@ -91,7 +91,7 @@ nav {
 .hero-text{
     margin-left: 4rem;
     width: 45%;
-    color: var(--four-g);
+    color: var(--third-g);
     font-size: 2rem;
     font-weight: 500;
 }
@@ -116,13 +116,14 @@ nav {
     color: var(--four-g);
     padding: 1.5rem 2.5rem;
     border-radius: 20px;
-    border: 2px solid var(--third-b);
+    border: .8px solid var(--four-g);
     font-size: 1.2rem;
     font-weight: 500;
 }
 
 .btn-2:hover{
     background-color: var(--primary-g);
+    border: none;
     transition: .5s ease-in-out;
 }
 
@@ -311,7 +312,7 @@ span:hover{
 
 .social__network{
     margin: 5rem 0;
-    padding: 5rem 0;
+    padding: 5rem 2rem;
     background-color: var(--secondary-g);
     display: flex;
     align-items: center;
@@ -337,6 +338,7 @@ span:hover{
     background-color: var(--third-g);
     font-size: 1rem;
     font-weight: 400;
+    cursor: pointer;
 }
 
 .fa-brands{
@@ -415,6 +417,7 @@ footer{
 .footer__right__card{
     width: 264px;
     height: 160;
+    cursor: pointer;
 }
 
 .footer__right__card--title{
