@@ -17,7 +17,7 @@ Installation:
 
 Clone the repository:
 Bash
-git clone https://github.com/your-username/car-service-website.git
+git clone https://github.com/ridhwanscrap/Car-Service.git
 
 
 Usage:
